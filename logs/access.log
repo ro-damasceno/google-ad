@@ -1,0 +1,4 @@
+10.0.2.2 - - [03/Jul/2018:18:46:46 +0000] "GET / HTTP/1.1" 200 1803 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+10.0.2.2 - - [03/Jul/2018:18:46:47 +0000] "GET / HTTP/1.1" 200 1800 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+10.0.2.2 - - [03/Jul/2018:18:46:47 +0000] "GET /favicon.ico HTTP/1.1" 200 295 "http://google-ad.local/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+10.0.2.2 - - [10/Jul/2018:13:20:59 +0000] "GET / HTTP/1.1" 200 1801 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
